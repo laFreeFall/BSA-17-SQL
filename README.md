@@ -1,3 +1,5 @@
+## [Tasks List](https://github.com/laFreeFall/BSA-17-SQL/blob/master/Tasks.md)
+
 ### Task 1
 - used `INNER JOIN` cause we need cause we need to have records with matching values in all tables
 - used `HAVING` clause cause `WHERE` couldn't be used with aggregate functions
